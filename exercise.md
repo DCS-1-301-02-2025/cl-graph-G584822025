@@ -98,7 +98,7 @@ student --> uc7
 digraph {
     rankdir = "LR";
     node [shape=box];
-"猿人" -> "原人" -> "旧人" -> "新人 "
+"猿人" -> "原人" -> "旧人" -> " 新人 "
 
 }
 ```
